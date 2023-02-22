@@ -1,0 +1,15 @@
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\MyOwnAbstractClass.csproj.AssemblyReference.cache
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\MyOwnAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\MyOwnAbstractClass.AssemblyInfoInputs.cache
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\MyOwnAbstractClass.AssemblyInfo.cs
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\MyOwnAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\bin\Debug\net6.0\MyOwnAbstractClass.exe
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\bin\Debug\net6.0\MyOwnAbstractClass.deps.json
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\bin\Debug\net6.0\MyOwnAbstractClass.runtimeconfig.json
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\bin\Debug\net6.0\MyOwnAbstractClass.dll
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\bin\Debug\net6.0\MyOwnAbstractClass.pdb
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\MyOwnAbstractClass.dll
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\refint\MyOwnAbstractClass.dll
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\MyOwnAbstractClass.pdb
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\MyOwnAbstractClass.genruntimeconfig.cache
+C:\Users\bludw\source\repos\MyOwnAbstractClass\MyOwnAbstractClass\obj\Debug\net6.0\ref\MyOwnAbstractClass.dll
